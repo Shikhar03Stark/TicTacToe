@@ -1,5 +1,5 @@
 # TicTacToe
-ML based Smart TicTacToe
+Reinforcement Learning based Smart TicTacToe
 
 Complete C++ based project to build TicTacToe
 which successfully defeats a Human.
@@ -11,4 +11,4 @@ Current Version:
   Simple GUI that involves User Interaction.
 
 Next Version:
-  Make optimized wining system.
+  Make optimized winning system.
